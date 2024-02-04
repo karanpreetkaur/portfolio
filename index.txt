@@ -1,10 +1,10 @@
-vCard - Personal Portfolio
+Karanpreet Kaur - Portfolio
 
 # sidebar
 
 alt = Karanpreet Kaur
 Karanpreet Kaur
-Web developer
+Data Engineer
 
 Show Contacts
 
